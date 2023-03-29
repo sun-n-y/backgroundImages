@@ -1,1 +1,18 @@
-/* background images: */
+/* background images:basics */
+
+div {
+  height: 300px;
+  color: white;
+}
+
+.big-img {
+  background: url("./big-image.jpeg");
+}
+
+.small-img {
+  background: url("./small-image.jpeg");
+}
+
+.folder-img {
+  background: url("./images/folder-img.jpeg");
+}
